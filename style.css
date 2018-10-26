@@ -1,0 +1,14 @@
+.movieCard{
+    border: 1px solid black;
+    background-color: #fff;
+    height: 120px;
+    /* margin: 10px; */
+    border-radius: 2px; 
+    padding: 10px; 
+    text-align: center;
+    color:red;
+ }
+ .movieCard p{
+    height: 40px;
+    font-weight: bold;
+ }
